@@ -5,3 +5,4 @@ Integrantes
 - [Perfil de Yamir](./perfil-yamir.md)
 - [Perfil de Gio](./perfil-gio.md)
 - [Perfil de Cristian](./perfil-cristian.md)
+- [Perfil de Gianluca](./perfil-Gianluca.md)
