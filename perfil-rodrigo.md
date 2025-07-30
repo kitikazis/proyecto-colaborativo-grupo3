@@ -1,6 +1,6 @@
 \## ¿Quién eres?
 
-Soy Rodrigo.
+Soy rodrigo.
 
 
 
