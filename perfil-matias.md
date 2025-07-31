@@ -1,7 +1,7 @@
 # Perfil de Matias
 
 Hola, soy Matias Sebastian Sicha Chumpitaz
-Estudio Ingeniería de Software con Inteligencia Artificial en SENATI.
+Soy estudiante en Ingeniería de Software con Inteligencia Artificial en SENATI.
 
 Mis habilidades actuales en programación (nivel básico-intermedio):
 - HTML, CSS y Bootstrap
