@@ -2,9 +2,10 @@
 
 ## 👥 Integrantes:
 - Gianluca Revilla – [Perfil de Gianluca](./perfil-Gianluca.md)
-- Rodrigo Guerra - [Perfil de Rodrigo](./perfil.rodirgo.md)
+- Rodrigo Guerra - [Perfil de Rodrigo](./perfil.rodrigo.md)
 - Matias Sicha - [Perfil de Matias](./perfil-matias.md)
 - Mattias Muguruza - [Perfil de Mattias](./perfil-mattias.md)
+- Giovanni Honorario - [Perfil de Giovanni](./perfil-giovanni.md)
 
 
 
@@ -19,6 +20,7 @@ Este proyecto fue desarrollado como parte de la práctica grupal de la carrera d
 | Rodrigo Guerra    | Sitio Web, Rama personal y principal, resolución de conflictos, Issues y Pull Requests  |
 | Matias Sicha      | Rama personal, estructura de carpetas y Pull Requests                                   |
 | Mattias Muguruza  | Rama personal, estructura de carpetas y Pull Requests                                   |
+| Giovanni Honorario| Rama personal, estructura de carpetas y Pull Requests                                   |
 
 ## ⚔️ Conflictos y cómo los resolvimos:
 
