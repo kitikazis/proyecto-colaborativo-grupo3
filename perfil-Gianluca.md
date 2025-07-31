@@ -1,4 +1,4 @@
- #Quién eres
+\##Quién eres
 Gianluca Revilla
  #Qué estudias
 Ingeniería de Software con IA
