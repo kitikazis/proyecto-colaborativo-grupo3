@@ -5,7 +5,7 @@
 - Rodrigo Guerra - [Perfil de Rodrigo](./perfil.rodrigo.md)
 - Matias Sicha - [Perfil de Matias](./perfil-matias.md)
 - Mattias Muguruza - [Perfil de Mattias](./perfil-mattias.md)
-- Giovanni Honorario - [Perfil de Giovanni](./perfil-giovanni.md)
+- Giovanni Honorario - [Perfil de Giovanni](./perfil-Giovanni.md)
 
 
 
