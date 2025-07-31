@@ -4,7 +4,7 @@
 - Gianluca Revilla – [Perfil de Gianluca](./perfil-Gianluca.md)
 - Rodrigo Guerra - [Perfil de Rodrigo](./perfil-rodrigo.md)
 - Matias Sicha - [Perfil de Matias](./perfil-matias.md)
-- Mattias Muguruza - [Perfil de Mattias](./perfil-mattias.md)
+- Mattias Muguruza - [Perfil de Mattias](./perfil-Mattias.md)
 - Giovanni Honorario - [Perfil de Giovanni](./perfil-Giovanni.md)
 
 
