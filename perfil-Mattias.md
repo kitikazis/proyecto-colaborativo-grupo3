@@ -13,6 +13,7 @@ Ingeniería de Software con Inteligencia Artifical
 - MYSQL
 - SQL
 - Laravel Basico
+- PHP
 
  • Experiencias pasadas (si las tienes)
 Tengo experiencia en la creación de distintas bases de datos y paginas webs de ventas de ropa o de electrodomésticos para proyectos pequeños
