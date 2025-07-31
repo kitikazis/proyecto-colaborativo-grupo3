@@ -1,9 +1,2 @@
-# proyecto-colaborativo-grupo3
-Integrantes
-## 👥 Perfiles del equipo
+# \# Proyecto realizado por Rodrigo en su rama :b
 
-- [Perfil de Yamir](./perfil-yamir.md)
-- [Perfil de Gio](./perfil-gio.md)
-- [Perfil de Cristian](./perfil-cristian.md)
-- [Perfil de Gianluca](./perfil-Gianluca.md)
-- [Perfil de rodrigo](./perfil-rodrigo.md)
