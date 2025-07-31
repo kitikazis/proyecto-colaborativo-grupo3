@@ -53,7 +53,7 @@ Este proyecto fue desarrollado como parte de la práctica grupal de la carrera d
 
 ## 🎥 Video explicativo (entregado por Drive) (Explicación Temporal)
 
-- Nombre de la carpeta: `GRUPO-1-MB4-GITHUB`
+- Nombre de la carpeta: `GRUPO-3-MB4-GITHUB`
 - Contenido:
   - 🎥 Video (máx. 15 minutos)
   - 📄 `integrantes.txt` con los nombres, roles y GitHub de cada uno
