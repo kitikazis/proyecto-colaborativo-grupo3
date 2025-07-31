@@ -12,7 +12,7 @@ Ingeniería de Software con IA
 - JavaScript
 - Python
 - Git y GitHub básico
-- 
+  
 \##Experiencias pasadas (si las tienes)
 
 Experiencia pasada en práctica en la creación de una página web de venta de ropa.
