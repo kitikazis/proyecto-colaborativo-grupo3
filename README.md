@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes:
 - Gianluca Revilla – [Perfil de Gianluca](./perfil-Gianluca.md)
-- Rodrigo Guerra - [Perfil de Rodrigo](./perfil.rodrigo.md)
+- Rodrigo Guerra - [Perfil de Rodrigo](./perfil-rodrigo.md)
 - Matias Sicha - [Perfil de Matias](./perfil-matias.md)
 - Mattias Muguruza - [Perfil de Mattias](./perfil-mattias.md)
 - Giovanni Honorario - [Perfil de Giovanni](./perfil-Giovanni.md)
