@@ -12,7 +12,6 @@ Ingeniería de Software con Inteligencia Artifical
 - Git y GitHub básico
 - MYSQL
 - SQL
-- Laravel Basico
 
  • Experiencias pasadas (si las tienes)
 Tengo experiencia en la creación de distintas bases de datos y paginas webs de ventas de ropa o de electrodomésticos para proyectos pequeños

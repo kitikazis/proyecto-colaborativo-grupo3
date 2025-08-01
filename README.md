@@ -2,9 +2,9 @@
 
 ## 👥 Integrantes:
 - Gianluca Revilla – [Perfil de Gianluca](./perfil-Gianluca.md)
-- Rodrigo Guerra - [Perfil de Rodrigo](./perfil.rodrigo.md)
+- Rodrigo Guerra - [Perfil de Rodrigo](./perfil-rodrigo.md)
 - Matias Sicha - [Perfil de Matias](./perfil-matias.md)
-- Mattias Muguruza - [Perfil de Mattias](./perfil-mattias.md)
+- Mattias Muguruza - [Perfil de Mattias](./perfil-Mattias.md)
 - Giovanni Honorario - [Perfil de Giovanni](./perfil-Giovanni.md)
 
 
@@ -14,13 +14,13 @@ Este proyecto fue desarrollado como parte de la práctica grupal de la carrera d
 
 ## 🔧 ¿Qué hizo cada uno?
 
-| Integrante        | Aporte individual                                                                       |
-|-------------------|-----------------------------------------------------------------------------------------|
-| Gianluca Revilla  | Rama personal, Issues, conflictos, Documentación del README.md y Pull Requests          |
-| Rodrigo Guerra    | Sitio Web, Rama personal y principal, resolución de conflictos, Issues y Pull Requests  |
-| Matias Sicha      | Rama personal, estructura de carpetas y Pull Requests                                   |
-| Mattias Muguruza  | Rama personal, estructura de carpetas y Pull Requests                                   |
-| Giovanni Honorario| Rama personal, estructura de carpetas y Pull Requests                                   |
+| Integrante        | Aporte individual                                                                                |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| Gianluca Revilla  | Rama personal, Issues, conflictos, Documentación del README.md y Pull Requests                   |
+| Rodrigo Guerra    | Sitio Web, Rama personal y principal, resolución de conflictos, Issues, merge y Pull Requests    |
+| Matias Sicha      | Rama personal, estructura de carpetas y Pull Requests                                            |
+| Mattias Muguruza  | Rama personal, estructura de carpetas y Pull Requests                                            |
+| Giovanni Honorario| Rama personal, estructura de carpetas y Pull Requests                                            |
 
 ## ⚔️ Conflictos y cómo los resolvimos:
 
@@ -53,7 +53,7 @@ Este proyecto fue desarrollado como parte de la práctica grupal de la carrera d
 
 ## 🎥 Video explicativo (entregado por Drive) (Explicación Temporal)
 
-- Nombre de la carpeta: `GRUPO-1-MB4-GITHUB`
+- Nombre de la carpeta: `GRUPO-3-MB4-GITHUB`
 - Contenido:
   - 🎥 Video (máx. 15 minutos)
   - 📄 `integrantes.txt` con los nombres, roles y GitHub de cada uno
