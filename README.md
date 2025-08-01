@@ -17,7 +17,7 @@ Este proyecto fue desarrollado como parte de la práctica grupal de la carrera d
 | Integrante        | Aporte individual                                                                                |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | Gianluca Revilla  | Rama personal, Issues, conflictos, Documentación del README.md y Pull Requests                   |
-| Rodrigo Guerra    | Sitio Web, Rama personal y principal, resolución de conflictos, Issues     |
+| Rodrigo Guerra    | Sitio Web, Rama personal y principal, resolución de conflictos e Issues     |
 | Matias Sicha      | Rama personal, estructura de carpetas y Pull Requests                                            |
 | Mattias Muguruza  | Rama personal, estructura de carpetas y Pull Requests                                            |
 | Giovanni Honorario| Rama personal, estructura de carpetas y Pull Requests                                            |
