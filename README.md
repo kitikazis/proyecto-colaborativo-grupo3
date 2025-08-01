@@ -1,5 +1,4 @@
 # proyecto-colaborativo-grupo3
 
-Integrantes:
-- [Perfil de Rodrigo](./perfil-rodrigo.md)
+Mi Rama
 - [Perfil de Gianluca](./perfil-Gianluca.md)
